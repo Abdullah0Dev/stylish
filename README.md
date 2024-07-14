@@ -78,8 +78,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/stylish-starter.git
-cd stylish-starter
+git clone https://github.com/Abdullah0Dev/stylish.git
+cd stylish
 ```
 
 
@@ -123,6 +123,6 @@ Open the app on your simulator or real device to view the project.
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
 
 ## <a name="links">🔗 Links</a>
-- **🎨 Design** : [Figma  E-Commerce App Desing✍](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community)?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
-- **GitHub Repository**: [Full Stack E-Commerce App](https://github.com/Abdullah0Dev/stylish)
+- **🎨 Design** : [Figma App Desing✍](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community)?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
+
  
