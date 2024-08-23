@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://bit.ly/3LboNOQ" target="_blank">
-      <img src="https://i.postimg.cc/pXCRw9zH/better-thumbnial.png" alt="Project Banner">
+      <img src="https://i.postimg.cc/3xjm5F9w/main-thumbnail.png" alt="Project Banner">
     </a>
   <br />
 
