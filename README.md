@@ -2,7 +2,8 @@
 <div align="center">
   <br />
     <a href="https://bit.ly/3LboNOQ" target="_blank">
-<a href='https://postimg.cc/0zDM7gYG' target='_blank'><img src='https://i.postimg.cc/0zDM7gYG/ai-assistant-img.png' border='0' alt='ai-assistant-img'/></a>    </a>
+      <img src='https://i.postimg.cc/0zDM7gYG/ai-assistant-img.png' />
+    </a>
   <br />
 
   <div>
