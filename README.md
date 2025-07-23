@@ -18,7 +18,7 @@
   <h3 align="center">Full Stack E-Commerce App</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@webmindsyt/videos" target="_blank"><b>Web Minds</b></a> YouTube. Join the WM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@Dev-Minds/videos" target="_blank"><b>Dev Minds</b></a> YouTube. Join the DM family!
     </div>
 </div>
  
